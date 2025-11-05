@@ -13,6 +13,6 @@ Welcome! This repository is my professional portfolio, containing a curated coll
     2.  **"Two-in-One" Market:** The market is clearly split into two distinct segments: long-range BEVs (200-300+ mile range) and short-range PHEVs (25-50 mile range).
     3.  **Technology Trends:** BEV range is improving steadily year-over-year, while PHEV range remains static, indicating different design goals.
 * **Links:**
-    * [**View the Full Analysis on Kaggle**]([<PASTE_YOUR_PUBLIC_KAGGLE_NOTEBOOK_LINK_HERE>](https://www.kaggle.com/code/bentaharanis/analysis-of-the-washington-state-ev-market-2015-2))
+    * [**View the Full Analysis on Kaggle**]([https://www.kaggle.com/code/bentaharanis/analysis-of-the-washington-state-ev-market-2015-2])
     * [**View the Dataset on Kaggle**](https://www.kaggle.com/datasets/utkarshx27/electric-vehicle-population-data)
 
